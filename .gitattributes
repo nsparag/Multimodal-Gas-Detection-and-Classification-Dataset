@@ -1,3 +1,4 @@
 *Mixture.zip filter=lfs diff=lfs merge=lfs -text
 *Perfume.zip filter=lfs diff=lfs merge=lfs -text
 *NoGas.zip filter=lfs diff=lfs merge=lfs -text
+*Smoke.zip filter=lfs diff=lfs merge=lfs -text
